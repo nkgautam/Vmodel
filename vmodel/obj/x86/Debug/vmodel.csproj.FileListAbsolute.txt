@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\vmodel\vmodel\bin\Debug\vmodel.exe
+D:\VisualStudioProjects\vmodel\vmodel\bin\Debug\vmodel.pdb
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Debug\vmodel.Form1.resources
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Debug\vmodel.Properties.Resources.resources
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Debug\vmodel.exe
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Debug\vmodel.pdb

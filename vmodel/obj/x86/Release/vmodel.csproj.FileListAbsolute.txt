@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\vmodel\vmodel\bin\Release\vmodel.exe
+D:\VisualStudioProjects\vmodel\vmodel\bin\Release\vmodel.pdb
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Release\vmodel.Form1.resources
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Release\vmodel.Properties.Resources.resources
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Release\GenerateResource.read.1.tlog
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Release\GenerateResource.write.1.tlog
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Release\vmodel.exe
+D:\VisualStudioProjects\vmodel\vmodel\obj\x86\Release\vmodel.pdb
